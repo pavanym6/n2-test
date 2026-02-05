@@ -1,4 +1,4 @@
-name: deployemt:v1
+name: deploy3
 
 on:
   pull_request:
